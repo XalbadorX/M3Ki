@@ -8,10 +8,9 @@ import threading
 import os
 
 os.system("clear")
-    print("Autor : Xalbador Code : Xlbdr")
-    print("DDoSaTtack by Xalbador")
-    print("Kalau Mau Pakek Ganteng Dulu")
-    print("Mau rename? PM me ")
+print("DDoSaTtack by Xalbador")
+print("Kalau Mau Pakek Ganteng Dulu")
+print("Mau rename? PM me ")
 ip = str(input(" DdosAttackByXalbador | Ip:"))
 port = int(input(" DdosAttackByXalbador | Port:"))
 choice = str(input(" DdosAttackByXalbador | Gas Gak Ni?(y/n):"))
